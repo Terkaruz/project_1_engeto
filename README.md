@@ -1,3 +1,3 @@
 # project_1_engeto
 Text analyzer
-version 1
+my first IT project
